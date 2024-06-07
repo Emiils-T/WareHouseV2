@@ -1,0 +1,138 @@
+[
+    {
+        "activity": "Rudolf:New item input: velo",
+        "date": "2024-06-06T12:33:36.252409Z"
+    },
+    {
+        "activity": "Rudolf:Added 1 velo",
+        "date": "2024-06-06T12:35:30.670491Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T12:35:40.075456Z"
+    },
+    {
+        "activity": "Rudolf:New item input: koks",
+        "date": "2024-06-06T12:49:11.316588Z"
+    },
+    {
+        "activity": "Rudolf:New item input: asdas",
+        "date": "2024-06-06T12:55:52.247227Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T12:56:00.367755Z"
+    },
+    {
+        "activity": "Rudolf:Deleted velo from inventory",
+        "date": "2024-06-06T12:58:28.618565Z"
+    },
+    {
+        "activity": "Rudolf:New item input: koks",
+        "date": "2024-06-06T13:03:31.099934Z"
+    },
+    {
+        "activity": "Rudolf:New item input: koko",
+        "date": "2024-06-06T13:05:00.083281Z"
+    },
+    {
+        "activity": "Rudolf:New item input: adsadas",
+        "date": "2024-06-06T13:07:40.225212Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:31:47.967744Z"
+    },
+    {
+        "activity": "Rudolf:New item input: adsadasd",
+        "date": "2024-06-06T13:33:15.411841Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:33:46.121904Z"
+    },
+    {
+        "activity": "Rudolf:New item input: kosk",
+        "date": "2024-06-06T13:34:38.399910Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:34:39.863811Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:34:50.300142Z"
+    },
+    {
+        "activity": "Rudolf:New item input: saasada",
+        "date": "2024-06-06T13:39:10.267851Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:39:11.669807Z"
+    },
+    {
+        "activity": "Rudolf:Added 2 saasada",
+        "date": "2024-06-06T13:42:46.182728Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:42:47.631230Z"
+    },
+    {
+        "activity": "Rudolf:New item input: sadasd",
+        "date": "2024-06-06T13:43:15.812604Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:43:23.616217Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T13:52:01.520930Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T14:00:03.448682Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T14:08:03.557201Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T14:13:44.109085Z"
+    },
+    {
+        "activity": "Rudolf:New item input: ozols",
+        "date": "2024-06-06T14:15:23.573784Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T14:15:25.456112Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T14:26:25.455245Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T14:26:30.072901Z"
+    },
+    {
+        "activity": "Rudolf:View items in warehouse",
+        "date": "2024-06-06T14:51:53.707489Z"
+    },
+    {
+        "activity": "Gatis:View items in warehouse",
+        "date": "2024-06-07T14:23:56.190458Z"
+    },
+    {
+        "activity": "Gatis:New item input: ps4",
+        "date": "2024-06-07T14:24:09.427513Z"
+    },
+    {
+        "activity": "Gatis:View items in warehouse",
+        "date": "2024-06-07T14:24:10.791239Z"
+    }
+]

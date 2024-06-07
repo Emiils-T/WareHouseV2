@@ -1,0 +1,38 @@
+[
+    {
+        "id": "6661baea85864",
+        "name": "game-boy",
+        "dateOfCreation": "2024-06-06T13:34:38+03:00",
+        "lastUpdate": "2024-06-06T16:39:10+03:00",
+        "units": 2,
+        "expirationDate": null,
+        "price": 50
+    },
+    {
+        "id": "6661bbf9dbcac",
+        "name": "aaaabb",
+        "dateOfCreation": "2024-06-06T16:39:10+03:00",
+        "lastUpdate": "2024-06-06T16:42:46+03:00",
+        "units": 3,
+        "expirationDate": null,
+        "price": null
+    },
+    {
+        "id": "6661bcf0136df",
+        "name": "jeans",
+        "dateOfCreation": "2024-06-06T16:43:15+03:00",
+        "lastUpdate": null,
+        "units": 2,
+        "expirationDate": null,
+        "price": null
+    },
+    {
+        "id": "6661c46aa23da",
+        "name": "shoes",
+        "dateOfCreation": "2024-06-06T17:15:23+03:00",
+        "lastUpdate": null,
+        "units": 2,
+        "expirationDate": "2028-09-09T17:15:23+03:00",
+        "price": 4
+    }
+]
